@@ -1,0 +1,19 @@
+------------------------------------input file----------------------------------
+
+0 -> Id of the order placed
+1 -> Area where the order was delivered
+2 -> Name of the product
+3 -> Quantity of the product delivered in that order
+4 -> Brand of the ordered product
+
+------------------------------------output file 1----------------------------------
+
+0 -> product Name.
+1 -> average quantity of the product purchased per order. (average is the quantity sold divided by total orders)
+
+
+------------------------------------output file 2----------------------------------
+
+
+0 -> product Name.
+1 -> popular brand. (the brand with the most total orders for the item)

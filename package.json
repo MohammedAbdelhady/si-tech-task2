@@ -1,0 +1,24 @@
+{
+  "name": "vigorexercise2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedAbdelhady/VigorExercise2.git"
+  },
+  "author": "Mohammed Gomaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedAbdelhady/VigorExercise2/issues"
+  },
+  "homepage": "https://github.com/MohammedAbdelhady/VigorExercise2#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "prompt": "^1.3.0"
+  }
+}
